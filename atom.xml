@@ -4,46 +4,37 @@
  <title>Justin Ho</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-29T15:28:14-05:00</updated>
+ <updated>2022-08-29T16:43:02-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Jami Gibbs</name>
+   <name>Justin Ho</name>
    <email></email>
  </author>
 
  
  <entry>
-   <title>Phantom</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
-   <updated>2016-02-20T15:15:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
+   <title>US Patent Data as a Graph</title>
+   <link href="http://localhost:4000/economics/2022/08/29/Patent.html"/>
+   <updated>2022-08-29T09:15:00-05:00</updated>
+   <id>http://localhost:4000/economics/2022/08/29/Patent</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Rescue Themes</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T09:56:00-06:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
+   <title>Patient Zero</title>
+   <link href="http://localhost:4000/epidemiology/2022/04/20/Patient_Zero.html"/>
+   <updated>2022-04-20T10:56:00-05:00</updated>
+   <id>http://localhost:4000/epidemiology/2022/04/20/Patient_Zero</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Weathercast</title>
-   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T09:56:00-06:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Bloc Jams Angular</title>
-   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T08:15:00-06:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
+   <title>Mining New York City Airbnb Data</title>
+   <link href="http://localhost:4000/economics/2021/02/20/Airbnb.html"/>
+   <updated>2021-02-20T09:56:00-06:00</updated>
+   <id>http://localhost:4000/economics/2021/02/20/Airbnb</id>
    <content type="html">
 </content>
  </entry>

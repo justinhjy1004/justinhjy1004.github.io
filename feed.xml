@@ -5,91 +5,70 @@
     <description>Data and Learning Things</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Aug 2022 15:28:14 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Aug 2022 15:28:14 -0500</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2022 16:43:02 -0500</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2022 16:43:02 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Phantom</title>
+        <title>US Patent Data as a Graph</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 15:15:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        <pubDate>Mon, 29 Aug 2022 09:15:00 -0500</pubDate>
+        <link>http://localhost:4000/economics/2022/08/29/Patent.html</link>
+        <guid isPermaLink="true">http://localhost:4000/economics/2022/08/29/Patent.html</guid>
         
-        <category>Jekyll</category>
+        <category>Neo4j</category>
         
-        <category>Sass</category>
+        <category>R</category>
         
-        <category>Bootstrap</category>
+        <category>Python</category>
+        
+        <category>Economics</category>
+        
+        <category>Graphs</category>
         
         
-        <category>development</category>
-        
-        <category>design</category>
+        <category>economics</category>
         
       </item>
     
       <item>
-        <title>Rescue Themes</title>
+        <title>Patient Zero</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 09:56:00 -0600</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/rescue-themes.html</guid>
+        <pubDate>Wed, 20 Apr 2022 10:56:00 -0500</pubDate>
+        <link>http://localhost:4000/epidemiology/2022/04/20/Patient_Zero.html</link>
+        <guid isPermaLink="true">http://localhost:4000/epidemiology/2022/04/20/Patient_Zero.html</guid>
         
-        <category>WordPress</category>
+        <category>MATLAB</category>
         
-        <category>PHP</category>
+        <category>R</category>
         
-        <category>Sass</category>
+        <category>Modeling</category>
         
         
-        <category>development</category>
-        
-        <category>design</category>
+        <category>Epidemiology</category>
         
       </item>
     
       <item>
-        <title>Weathercast</title>
+        <title>Mining New York City Airbnb Data</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 09:56:00 -0600</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/weathercast.html</guid>
+        <pubDate>Sat, 20 Feb 2021 09:56:00 -0600</pubDate>
+        <link>http://localhost:4000/economics/2021/02/20/Airbnb.html</link>
+        <guid isPermaLink="true">http://localhost:4000/economics/2021/02/20/Airbnb.html</guid>
         
-        <category>JavaScript</category>
+        <category>Python</category>
         
-        <category>AngularJS</category>
+        <category>R</category>
         
-        <category>API</category>
+        <category>DataMining</category>
         
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloc Jams Angular</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 08:15:00 -0600</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
+        <category>Geospatial</category>
         
         
-        <category>development</category>
+        <category>economics</category>
         
       </item>
     
