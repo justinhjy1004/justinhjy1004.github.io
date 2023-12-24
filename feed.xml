@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-24T16:27:53-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Justin Ho</title><subtitle>Build Jekyll site with the GitBook style.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-24T16:29:58-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Justin Ho</title><subtitle>Build Jekyll site with the GitBook style.
 </subtitle><author><name>HE Tao</name></author><entry><title type="html">Book Journal</title><link href="http://localhost:4000/jekyll/2023-12-24-books.html" rel="alternate" type="text/html" title="Book Journal" /><published>2023-12-24T00:00:00-05:00</published><updated>2023-12-24T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/books</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-24-books.html"><![CDATA[<h3 id="on-earth-were-briefly-gorgeous">On Earth We’re Briefly Gorgeous</h3>
 
 <p><em>Read first in the midst of the pandemic, then again in November 2023</em></p>
 
 <div style="text-align: center"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615580168i/41880609.jpg" width="150" /></div>
+
+<p><br /></p>
 
 <p><em>“I am thinking of beauty again, how some things are hunted because we have deemed them beautiful. If, relative to the history of our planet, an individual life is so short, a blink, as they say, then to be gorgeous, even from the day you’re born to the day you die, is to be gorgeous only briefly.”</em> ― <strong>Ocean Vuong</strong></p>
 
@@ -27,7 +29,7 @@
 
 <div style="text-align: center">
 <a href="https://www.overleaf.com/read/xsvznyjgqdgx#8fe54c" target="_blank" rel="noopener noreferrer">
-<button class="button-23"> <i class="fa fa-github"></i> GitHub Repo
+<button class="button-23"> <i class="fa fa-leaf"></i> Overleaf
 </button> 
 </a>
 </div>]]></content><author><name>Justin Ho</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Bayesian Data Analysis]]></summary></entry></feed>
