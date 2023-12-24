@@ -1,0 +1,16 @@
+{"/jekyll-gitbook/pages/about/": {
+    "title": "About Me",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/pages/about/",
+    "body": "The obituary style picture is my profile picture in LinkedIn, and that could explain my lack of success in the job market overall. Currently, I am a Research Associate at Harvard Business School. I studied in the University of Nebraska-Lincoln for my undergraduate degree, and aspiring to get a PhD sometime in the future. As to which PhD program, I do not know, and my interest lies sporadically and widely across Economics, Philosophy, Social Sciences, Linguistics in general, but also Mathematics and Computer Science. Does that make me a polymath? No. Definitely not. An aspiring polymath maybe, but that is no longer a thing in the world that I currently live in. That is a whole separate rabbit hole that I don’t want to go into this page. But that is me in a nutshell, not the most interesting person in the world, and I am learning how to be okay with that."
+  },"/jekyll-gitbook/pages/projects/": {
+    "title": "Projects",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/pages/projects/",
+    "body": "These are my side projects that I have done over time. Rather proud of them, and that is why they are on display, and I hope you enjoy them. Bandwagon Effect: Evidence from USPTO Data This project was initially started as a fun project back in UNL, exploring the great and interesting world of graph database and graph analysis. Unfortunately, a lot of that is now relegated to the side (the graph-side of things). The good thing is, I am currently working on a paper based on this analysis on the Bandwagon Effect in R&amp;D for firms. Really excited about it and hopefully something will come out of it! GitHub Repo Neo4j Conference Patient Zero Imagine a vaccine that could distribute itself. No appointments, no shipping, no expiration dates. This vaccine would be be created by making a more infectious but less deadly variant of the disease. Then a Patient Zero would be infected and sent into the population to spread the vaccine. Unethical? Almost certainly. Interesting to study? Absolutely! GitHub Repo Paper Airbnb in New York This is an exploration of a dataset of Airbnb listings in New York City from 2008 to 2021. Here we explored different Data Mining algorithms to identify patterns within the dataset with a strong geospatial emphasis. GitHub Repo"
+  },"/jekyll-gitbook/pages/publications/": {
+    "title": "Publications",
+    "keywords": "Jekyll",
+    "url": "/jekyll-gitbook/pages/publications/",
+    "body": "Wow so empty…"
+  }}
