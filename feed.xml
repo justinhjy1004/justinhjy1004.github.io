@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-08T17:54:53-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Justin Ho</title><subtitle>Build Jekyll site with the GitBook style.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-11T06:30:57-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Justin Ho</title><subtitle>Build Jekyll site with the GitBook style.
 </subtitle><author><name>HE Tao</name></author><entry><title type="html">Personal Notes</title><link href="http://localhost:4000/jekyll/2023-12-31-personal.html" rel="alternate" type="text/html" title="Personal Notes" /><published>2023-12-31T00:00:00-05:00</published><updated>2023-12-31T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/personal</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-31-personal.html"><![CDATA[<h3 id="not-today">Not Today</h3>
 
 <p><em>8th of January 2024</em></p>
@@ -72,6 +72,19 @@
 <div style="text-align: center">
 <a href="https://www.overleaf.com/read/xsvznyjgqdgx#8fe54c" target="_blank" rel="noopener noreferrer">
 <button class="button-23"> <i class="fa fa-leaf"></i> Overleaf
+</button> 
+</a>
+</div>
+
+<h1 id="discontinued-notes">Discontinued Notes</h1>
+
+<h3 id="machine-learning-with-graphs">Machine Learning with Graphs</h3>
+
+<p>I wrote this during the pandemic, and this is based on Stanford’s lectures on ML with graphs. It was really interesting, and I learned this because I thought I needed to know methods from this for my paper, but… it was just more on personal learning (which I don’t regret).</p>
+
+<div style="text-align: center">
+<a href="https://www.overleaf.com/read/xsvznyjgqdgx#8fe54c" target="_blank" rel="noopener noreferrer">
+<button class="button-23"> <i class="fa fa-pdf"></i> PDF
 </button> 
 </a>
 </div>]]></content><author><name>Justin Ho</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Bayesian Data Analysis]]></summary></entry></feed>
