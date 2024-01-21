@@ -7,7 +7,7 @@
     "title": "Projects",
     "keywords": "Jekyll",
     "url": "/pages/projects/",
-    "body": "These are my side projects that I have done over time. Rather proud of them, and that is why they are on display, and I hope you enjoy them. Bandwagon Effect: Evidence from USPTO Data This project was initially started as a fun project back in UNL, exploring the great and interesting world of graph database and graph analysis. Unfortunately, a lot of that is now relegated to the side (the graph-side of things). The good thing is, I am currently working on a paper based on this analysis on the Bandwagon Effect in R&amp;D for firms. Really excited about it and hopefully something will come out of it! GitHub Repo Neo4j Conference Patient Zero Imagine a vaccine that could distribute itself. No appointments, no shipping, no expiration dates. This vaccine would be be created by making a more infectious but less deadly variant of the disease. Then a Patient Zero would be infected and sent into the population to spread the vaccine. Unethical? Almost certainly. Interesting to study? Absolutely! GitHub Repo Paper Airbnb in New York This is an exploration of a dataset of Airbnb listings in New York City from 2008 to 2021. Here we explored different Data Mining algorithms to identify patterns within the dataset with a strong geospatial emphasis. GitHub Repo"
+    "body": "These are my side projects that I have done over time. Rather proud of them, and that is why they are on display, and I hope you enjoy them. Eviction in Nebraska TODO Bandwagon Effect: Evidence from USPTO Data This project was initially started as a fun project back in UNL, exploring the great and interesting world of graph database and graph analysis. Unfortunately, a lot of that is now relegated to the side (the graph-side of things). The good thing is, I am currently working on a paper based on this analysis on the Bandwagon Effect in R&amp;D for firms. Really excited about it and hopefully something will come out of it! GitHub Repo Neo4j Conference Patient Zero Imagine a vaccine that could distribute itself. No appointments, no shipping, no expiration dates. This vaccine would be be created by making a more infectious but less deadly variant of the disease. Then a Patient Zero would be infected and sent into the population to spread the vaccine. Unethical? Almost certainly. Interesting to study? Absolutely! GitHub Repo Paper Airbnb in New York This is an exploration of a dataset of Airbnb listings in New York City from 2008 to 2021. Here we explored different Data Mining algorithms to identify patterns within the dataset with a strong geospatial emphasis. GitHub Repo"
   },"/pages/publications/": {
     "title": "Publications",
     "keywords": "Jekyll",
@@ -18,6 +18,11 @@
     "keywords": "Jekyll",
     "url": "/pages/teaching/",
     "body": "Wow so empty…"
+  },"/pages/working/": {
+    "title": "Work Experience",
+    "keywords": "Jekyll",
+    "url": "/pages/working/",
+    "body": "Software Developer Farm Credit Services of America August 2020 - May 2021"
   },"/jekyll/2023-12-31-_.html": {
     "title": "_",
     "keywords": "Jekyll",
