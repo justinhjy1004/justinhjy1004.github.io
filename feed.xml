@@ -1,112 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-06T06:55:06-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Justin Ho</title><subtitle>Build Jekyll site with the GitBook style.
-</subtitle><author><name>HE Tao</name></author><entry><title type="html">_</title><link href="http://localhost:4000/jekyll/2023-12-31-_.html" rel="alternate" type="text/html" title="_" /><published>2023-12-31T00:00:00-05:00</published><updated>2023-12-31T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/_</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-31-_.html"><![CDATA[<h3 id="planted-problems">Planted Problems</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-27T11:10:18-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Justin Ho</title><subtitle>Build Jekyll site with the GitBook style.
+</subtitle><author><name>HE Tao</name></author><entry><title type="html">Book Journal</title><link href="http://localhost:4000/jekyll/2023-12-24-books.html" rel="alternate" type="text/html" title="Book Journal" /><published>2023-12-24T00:00:00-05:00</published><updated>2023-12-24T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/books</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-24-books.html"><![CDATA[<h3 id="a-most-elegant-equation">A Most Elegant Equation</h3>
 
-<p><em>6th February 2024</em></p>
+<p><em>Finished in Mid May 2025</em></p>
 
-<p>Graph theory and adjacent problems are historically and presently a mess, to say the least. However, the difficulty of such problems opens up an avenue to explore and dive deeper into issues relevant to computational complexity, in very meaningful ways. A way that graph theorist or computer scientist would ‘relax’ the problem is to frame it as a recovery problem.</p>
+<div style="text-align: center"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513347466i/34219963.jpg" width="150" /></div>
 
-<p>One instance of it is a the planted clique problem. First, you have a graph, you then ‘plant’ a clique in the graph of size <em>k</em>, and you have to recover the planted clique. A priori, we know the size of the clique, and so it should not be as difficult as finding the largest clique. However, it turns out to be not a computationally simple problem!</p>
+<p><br /></p>
 
-<p>What is more interesting to me is the following. Yes, it is difficult, we all know that. But if you plant it in a random graph, the recovery is not that difficult. Assuming Erdos-Renyii, then the clique sticks out since cliques are not all too common! If you have an ‘adversary’ that makes cliques cliqueier(?), in a semi-random graph, you now have a problem. This is because now you really don’t know who altered what!</p>
+<p>I took a pretty long break in continuing this blog. Not that I haven’t read anything significant, though I really did take a break in blogging on my side. Many things have happened, but this is nonetheless the best time to talk about Elegant Equation, as Nathan, my sweet sweet darling, is one elegant equation of his own right.</p>
 
-<p>For some reason, I thought it had parallels to ‘recovering’ treatment effects in statistics. The notion of yes, you could ‘plant’ some treatment to a group, but if that group is then made noisier because maybe due to selection etc. The result is that you have a more difficult problem than before! I don’t know, just food for thought.</p>
+<p>Pausing to reflect, pushing to relate, those are just some fascinating things David Stipp encouraged me to do through this book, as we reflected on Euler’s Equation from its simplicity, to its elegance, but most importantly to its connectivity to many unrelated things. The first time I recall encountering this equation, it was introduced to me in Group Theory as a root of unity, and later in Module Theory as Eloisa so swiftly and graciously proved the relationship. I was then, so unsuspecting of its beauty, that I let it slipped, mainly due to the crunch of time and pressure, of a daunting homework set in front of me. Now that I have some time to ponder, I have been blessed to reflect, and of course, with the wonders of the Boston Public Library, given a chance to be amazed by life’s simple things.</p>
 
-<h3 id="calling-it-quits">Calling it Quits</h3>
-
-<p><em>1st February 2024</em></p>
-
-<p>Life can be weird, and it was surprising to learn that Khaliun, the Khaliun, has decided to change the course of her life for better. Parting ways with academia, unwittingly or not, might be the best decision one can make, given its current state. Of course, I would not call it at shambles, but it is increasingly appearing as one, with a questionable future ahead.</p>
-
-<p>To optimize a deterministic schedule, one with known outcome, is often intractable than not. Having this knowledge then, why care so much about optimizing each step of the way? Randomness seems to appear and surface every part of your life and so, does it even make sense to think about the thousandth step ahead of us? We humans were never built to believe of our survival in the next forseeable year, and so start from there.</p>
-
-<p>The choice is indeed in your hands, but if choosing is intractable, then resign yourself to this randomness to leave behind this condemnation that is freedom.</p>
-
-<h3 id="the-little-things-i-need-to-know">The Little Things I Need to Know</h3>
-
-<p><em>29th January 2024</em></p>
-
-<p>The subtle, not so subtle, realization that my ego is playing a huge role here. In so many ways, against my interests of fostering a sense of agreeableness, and why would I say so? Isn’t agreeing for the sake of agreeing the worst artifact a complicit, complacent society has produced? That is true. But I do work in a business school. Compromising ethics is not exactly frowned upon.</p>
-
-<p>Now, here I go again. Strong willed, impatient. Perhaps good things to have, and I reserve the rights to keep them. But know the game you play, Justin. Truth is, you are as egotistic as the rest, but they have the say on the table just because of titular powers conferred to them. You are, after all, just a hard headed assistant, difficult to work with, pointing out problems, playing the devil’s advocate in an environment scrubbed of imperfection, with you as a sore on their side…</p>
-
-<h3 id="good-friday">Good Friday</h3>
-
-<p><em>26th January 2024</em> (Written on the 28th)</p>
-
-<p>Friday, an interesting day to have</p>
-
-<ol>
-  <li>Worked from 7am, frustrated and rushed tasks throughout the day</li>
-  <li>12pm - left Shad early, too distracted for any exercises</li>
-  <li>Went home at 3pm, avoid in person meetings</li>
-  <li>4pm-5.15pm, just shoot me already</li>
-  <li>5.30pm, phone call from Daniel, suicidal; my date with Nathan, canceled.</li>
-  <li>A hell lot happen, ending with the police involved, and I got to the Red Line 9pm</li>
-  <li>9.15pm, random homeless person flung food at me</li>
-  <li>9.30pm, waiting for the 66 bus. Tired</li>
-</ol>
-
-<p>Eventful.</p>
-
-<h3 id="holding-on-to-my-naivety">Holding on to my Naivety</h3>
-
-<p><em>25th January 2024</em></p>
-
-<p>I have never faced true consequences in my life. The fact is, life until this point has allowed me to skip around, on a playground. And here I am, working in a my first <em>real</em> job, where my ‘production’ mattered, and my passion, has just faltered.</p>
-
-<p>Though I cannot truly accept what it means by ‘production’ as a concept. At least, I feel the urge to push back regardless of what is considered good by the adults in the room. Childish as it may, but that sustains my hope, in continuing what I want to do, because increasingly, I do not what I want to do.</p>
-
-<p>Isn’t research based on the natural curiosity to ask and discover? I suppose this idealism doesn’t stand a chance against reality, with this academic mechanism that purpotedly enhances creativity. This is all easier said than done, isn’t it? Clinging on to it, I should not simply lose hope and cede my interests just because <em>‘it is just how things go’</em>. I won’t, as long as I can. I have to hold on to this naivety if it fuels me, even if it is only momentarily.</p>
-
-<h3 id="why-we-cannot-have-good-things">Why We Cannot Have Good Things</h3>
-
-<p><em>15th January 2024</em></p>
-
-<p>Frowns, furrowed brows. Not of distress, nor his awkward stretches in the restaurant were part of my routine. The unfamiliarity of course, leads to staring, and the occassional smiles as I gleaned at his face. Wondering if there was any cue for me to seize upon, as my desire to please and entertain egged me on.</p>
-
-<p>I’d like to believe that it is all relative; jokes in South Park about the Last of the Meheecans could be literature in a slightly different world. But this is not the world that I live in. When he was about to speak, I abruptly cut him off. Unintentionally. But the stress of silence, as I stuttered nonsense, were strips of solitude I could not bare. Fidgeting, and rubbing his fingers, he would look at me with his beautiful face, with his gentle voice he would say, “yeah.”</p>
-
-<p>That is why I cannot have good things.</p>
-
-<h3 id="nothing-has-really-changed">Nothing Has (Really) Changed</h3>
-
-<p><em>14th January 2024</em></p>
-
-<p>The uncomfortable truth, (re)surfacing. Then, why this? Why now? It is so clearly all this time, yet I have been just pretending. What has been the trigger? A rude awakening. About myself, about this world.</p>
-
-<h3 id="downgrading">Downgrading</h3>
-
-<p><em>12th January 2024</em></p>
-
-<p>It’s really not that different, to be frank. Ending a relationship with someone that you ex-ante thought to be a great fit for you, as part of your life. You want him to be in your life; thinking that the world would just be that different without his presence. But this is no relationship, it was not that serious, and it is probably not that serious on his side too. You have seen him turn against you. So, what more is there to say about this series of unfortunate events?</p>
-
-<p>A part of you feels that this came from your friends. How coincidental is it for you to need a breakup, a callout, and a yelling match to reach this conclusion? But, it is not a coincidence. You need that to be aware of things. I wonder how much lie lurking beneath you when you want to see the best in everyone. Gullibility at your best.</p>
-
-<p>A part of you feels that this comes from the need to disassociate. Being related to someone that has a history does not always shine the best light on you. It never does in fact. But how convenient, isn’t it? To kick someone when they are already down. Maybe they deserve it. And maybe, you are not a saint.</p>
-
-<p>A part of you hopes that this is a reflection of your values. You don’t tolerate folks that are classist, racist, and sexist. You have successfully painted him as such. To uphold your values, you must denounce such actions, as complacency breeds conformity, and you start seeing him in yourself. That is what you are up against, and you, the righteous shall rise to grace.</p>
-
-<p>Consider the alternative though, why all this now? Why all this, when you can just choose to be indifferent. His life is his, and yours, yours. Clicking a downgrade button is not too bad. Relationships falter. Now once a blossoming friendship, it is time to relegate it into an acquaintance. And that, is okay.</p>
-
-<h3 id="not-today">Not Today</h3>
-
-<p><em>8th of January 2024</em></p>
-
-<p>Mondays are said to be the worst, and they are. As I am drinking my wine, drowning my woes; I could not help to feel a little part of me wants me to feel worse than I actually am, manufacturing dissent, if you will, in this life that I have. That could be entirely true. But what gripe do I have in evaluating decent work done by brilliant participants?</p>
-
-<p>Could one tell? Could one tell that I am being immature, complaining in the sidelines while allowing this to live in my head rent free? Why do I actually care, or why do I not? I should make a decision. And the truth is, there is a lot of wisdom in my professors who could navigate all this bullshit and stay afloat regardless, and maybe I am here to learn that. Tolerance to this, whole, farce… At least that is how it feels at times.</p>
-
-<p>Learning to be grateful is indeed hard, especially when you are raised so privileged. If you could not name the problem, then, it isn’t a problem. It is probably in your head.</p>
-
-<h3 id="a-personal-reminder">A Personal Reminder</h3>
-
-<p><em>31st of December 2023</em></p>
-
-<p>It would be disingenuous to say that I had to leave behind a lot in 2023. I did, but they were choices. Intentional, brimmed with the excitement of change. I had given up many things, and in return, I had received a lot. That, I should always remind myself.</p>
-
-<p>As the arbitrary number approaches that defines our world, I have the all too familiar task to do in my small apartment in Boston, MA. A state whose name I could not spell without doing a Google Search. aAstate that I grew to adore and love, but harbour a sense of distaste from the lingering memories of comfort from Lincoln.</p>
-
-<p><em>‘Estas por encima del mundo’</em> is perhaps not the right way to phrase things, neither does it make me feel better about myself. But I am somewhere that matters, somewhere that, that if I just could be honest to myself, is miles better than what most people have. That, I do have to remind myself that.</p>]]></content><author><name>Justin Ho</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Planted Problems]]></summary></entry><entry><title type="html">Book Journal</title><link href="http://localhost:4000/jekyll/2023-12-24-books.html" rel="alternate" type="text/html" title="Book Journal" /><published>2023-12-24T00:00:00-05:00</published><updated>2023-12-24T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/books</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-24-books.html"><![CDATA[<h3 id="algorithms-to-live-by">Algorithms to Live By</h3>
+<h3 id="algorithms-to-live-by">Algorithms to Live By</h3>
 
 <p><em>Read for way too long but finished in, 25th of January 2024</em></p>
 
@@ -166,7 +71,7 @@
 
 <p><em>“You already know that the first thing that makes you foreign to a place is to be born poor in it; you don’t need to emigrate to America to feel what you already felt when you were ten, looking up at the rickety concrete roof above your head and knowing that one more bad typhoon would bring it down to crush your bones and the bones of all your siblings sleeping next to you; or selling fruit by the side of the road to people who made sure to never really look at you, made sure not to touch your hands when they put the money in it. You’ve been foreign all your life. When you finally leave, all you’re hoping for is a more bearable kind of foreignness.”</em> ― <strong>Elaine Castillo</strong></p>
 
-<p>My home to me, today at least, is as foreign as it can get. Here, without my family nor loved ones, but despite the distance, feels more like ‘home’. A story about leaving behind the world you knew, one that spat on your face, and turning around to another that you don’t belong, but finding warmth and familiarty in it. I’d like to tell that story. And of course, mine wasn’t fraught with violence, abandonment, and unrelentless work, but the book resonated with me in inexplicable ways. It reminded me of mum. It reminded me of the journey, of immigration, the idealization of home, to find disappointing apparitions of the past that haunt you till this day. Regardless, Castillo chose to close the story with pancit, a lot of it in fact, filling the mouths (and hearts) of the De Vera family in spite of the simmering tensions that characterize family life.</p>]]></content><author><name>Justin Ho</name></author><category term="Jekyll" /><summary type="html"><![CDATA[Algorithms to Live By]]></summary></entry><entry><title type="html">Notes</title><link href="http://localhost:4000/jekyll/2023-12-24-notes.html" rel="alternate" type="text/html" title="Notes" /><published>2023-12-24T00:00:00-05:00</published><updated>2023-12-24T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/notes</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-24-notes.html"><![CDATA[<h3 id="bayesian-data-analysis">Bayesian Data Analysis</h3>
+<p>My home to me, today at least, is as foreign as it can get. Here, without my family nor loved ones, but despite the distance, feels more like ‘home’. A story about leaving behind the world you knew, one that spat on your face, and turning around to another that you don’t belong, but finding warmth and familiarty in it. I’d like to tell that story. And of course, mine wasn’t fraught with violence, abandonment, and unrelentless work, but the book resonated with me in inexplicable ways. It reminded me of mum. It reminded me of the journey, of immigration, the idealization of home, to find disappointing apparitions of the past that haunt you till this day. Regardless, Castillo chose to close the story with pancit, a lot of it in fact, filling the mouths (and hearts) of the De Vera family in spite of the simmering tensions that characterize family life.</p>]]></content><author><name>Justin Ho</name></author><category term="Jekyll" /><summary type="html"><![CDATA[A Most Elegant Equation]]></summary></entry><entry><title type="html">Notes</title><link href="http://localhost:4000/jekyll/2023-12-24-notes.html" rel="alternate" type="text/html" title="Notes" /><published>2023-12-24T00:00:00-05:00</published><updated>2023-12-24T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/notes</id><content type="html" xml:base="http://localhost:4000/jekyll/2023-12-24-notes.html"><![CDATA[<h3 id="bayesian-data-analysis">Bayesian Data Analysis</h3>
 
 <p>This is my ongoing work with Jonathan Min to go through the lectures as well as exercises by following the lecture series taught by Prof. Aki Vehtari on Bayesian Data Analysis, and the book with the same name by Prof. Vehtari and his coauthors.</p>
 
